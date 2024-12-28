@@ -73,7 +73,7 @@
  
 // Question 3
 
-// Declare a variable
+// // Declare a variable
 // let myVariable;
 
 // // Show the value of the variable after declaration
@@ -236,7 +236,7 @@
 
 // Question 1
 
-var a =10
+// var a =10
 // document.write("Result:"+"<br/>")
 // document.write("The value of a is 10"+"<br/>"+"<br/>")
 // document.write("The value of ++a is ", ++a +"<br/>")
@@ -258,7 +258,13 @@ var a =10
 // document.write("result is "+ result )
 
 // Question 3
-
+// let nam = prompt(" apna jans darj karin!")
+// let a =("aadmi")
+// if ( nam==a){
+//     document.write(`<h1> kase ho bata to</h1>`)
+// }else {
+//      document.write(`<h1> Assalim e Alaikum kasee he ap </h1>`)
+//      }
 // Question 4/5
 
 // Question 6/7
